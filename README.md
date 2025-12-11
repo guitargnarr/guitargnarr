@@ -2,11 +2,11 @@
 
 **Full Stack Developer** • **Louisville, KY**
 
-19 live deployments. Building production systems with modern web technologies and AI integration.
+18 live deployments. Building production systems with modern web technologies and AI integration.
 
 ---
 
-## Live Deployments (19)
+## Live Deployments (18)
 
 ### Core Platform
 | Project | Stack | URL |
@@ -41,7 +41,6 @@
 | **Apartment Demo** | Full-stack, WebSocket | [frontend-mu-dusky-38.vercel.app](https://frontend-mu-dusky-38.vercel.app) |
 | **JCPS Transfer** | Civic Tech | [jcps-transfer.vercel.app](https://jcps-transfer.vercel.app) |
 | **About** | Static | [about.projectlavos.com](https://about.projectlavos.com) |
-| **FretForge** | Guitar PWA (v1) | [fretforge-showcase.vercel.app](https://fretforge-showcase.vercel.app) |
 
 ---
 
@@ -60,7 +59,7 @@
 **Frontend**: React, Next.js, Vite, Tailwind CSS
 **Backend**: FastAPI, Node.js, Python 3.14
 **AI/ML**: Claude API, Ollama, TensorFlow, 7-model ensemble
-**Infrastructure**: Vercel (16), Render (2), Railway (1), Docker
+**Infrastructure**: Vercel (15), Render (2), Railway (1), Docker
 
 ---
 
